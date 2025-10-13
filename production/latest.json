@@ -1,8 +1,15 @@
 {
-  "version": "0.1.1-canary-ota",
-  "notes": "Release 0.1.1-canary-ota - See GitHub release for full details",
-  "pub_date": "2025-10-11T20:53:39Z",
+  "version": "0.1.0-canary",
+  "notes": "Release 0.1.0-canary",
+  "pub_date": "2025-10-11T21:10:28Z",
   "platforms": {
-
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUpVTkxBMkRvcUMyWlZFalM0dW9ST3VXM2tydnhZcGZQdU9UK2VoT0NuYlMwZjZjZFAwUmxZc2M1V1kwUnQ0VjhrYnhlSjQ2RW90SGlKWlluSGt2UFMyUGEyaU83aHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMzkxMjM3CWZpbGU6Um9iZXJ0LmFwcC50YXIuZ3oKMUtMUGMwTE01cXI3MGFZb0dOdnFGakg5NTNwVGVOQWhESVZvZ1QzS3dBeE5kMDZYZDJocitNSWpadllnaXp3ZHY1Q3ZXcGhia09SWnJ6UkxUako1QUE9PQo=",
+      "url": "https://github.com/lucky-tensor/robert-releases/releases/download/0.1.0-canary/Robert_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUpVTkxBMkRvcUoyRjFWY0RGVkZBRU83T3h6NUMzMzdCa29IVTVzeUtpK0lkWGxlbFJlcGxwKzJDQThRTDRvdlhOUXQ4Tjl0OC9BblVGbjdpYklVQVVUV3Z6VldWcWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMzkxMjAzCWZpbGU6Um9iZXJ0LmFwcC50YXIuZ3oKSTlyaGsyZG54bzFpRUFDZytXZGNaOStla1YxcEJDZjlYdFNxbkJodDVYOHdZTWFXbjJNWlFGVGtoWnYybVgxVFRudkJCZjJVeldrTHdZY0pkN3RKQlE9PQo=",
+      "url": "https://github.com/lucky-tensor/robert-releases/releases/download/0.1.0-canary/Robert_x64.app.tar.gz"
+    }
   }
 }
