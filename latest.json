@@ -4,12 +4,12 @@
   "pub_date": "2025-10-14T19:09:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/robert-agent/robert-releases-canary/releases/download/0.1.1-canary/Robert_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUpVTkxBMkRvcUFuZUY4YXBUSG5UOUdxb2hLYVBRVGdWMkUybG10N1hOcHVOQmo5K0FoUi85cWk5ZHVpNG55TFpFMWNJcDVyVWV6a2tTQ2c1cUlNRnVlVFM5NVkzb3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNDcwMjI4CWZpbGU6Um9iZXJ0LmFwcC50YXIuZ3oKSURXUjcreVovTHYxL2dFYXR3NkRxYmFHOGg1WlR2RmdLN0dZQllNc05VYmFTaFF3SmxiOElqa1dtZStXMExBclZVR2RKN0hWaE42N2x4VlNyVUROQ2c9PQo="
+      "url": "https://github.com/robert-agent/robert-releases-canary/releases/download/0.1.1-canary/robert-canary-bdd2_aarch64_updater.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUpVTkxBMkRvcUdIbDFwRmt5c0JyeU0vbzY0TER3cVFEaDVOSlMwZ1FtRzBMT0ZXVmdjK3JpekgyQytGelgrVmNNbDFZaXM1c1c3Z1QvVVMrKzVQblQxVkhxeXhES3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNDcxMjQ4CWZpbGU6cm9iZXJ0LWNhbmFyeS1iZGQyLmFwcC50YXIuZ3oKb2NTT1ViL2pqOUdVY3pIUGFrL282TjdQTStSL3p5bTlIZldHTHdKR3lyM0lvMkY1Tjg4NFRrN0JveHJEZ0dHdm5XOE5nd1hqYS96bjZ1WGxjcitlQmc9PQo="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/robert-agent/robert-releases-canary/releases/download/0.1.1-canary/Robert_x64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUpVTkxBMkRvcUtlUnJrRUpLcWYyZGpaZEVqTjM0UDZDMWtzYmVJRjFLL2pLZXlibEsxRTNzWVZjcGVlbHRNMUNPT3FoamxvV1FZTk9uT0x5VHhQMUlrMGZ4QUpHWHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNDcwMTYxCWZpbGU6Um9iZXJ0LmFwcC50YXIuZ3oKTStUVVdhTmI1L3hBSm41QkhmVTJESStHMW93QVh1Z0NKeFFVS0k0ZzBPVHVyR3E3NTMzaWE4VUpLMzIrRXdZbEpXekgwSi8zSnJBbUdRdjB6Z0hsQVE9PQo="
+      "url": "https://github.com/robert-agent/robert-releases-canary/releases/download/0.1.1-canary/robert-canary-bdd2_x64_updater.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUpVTkxBMkRvcUhHdExTeXNPREUvQWdhNFQxb0FTM09IWnc1VHBmc3gxVFpEQjhOdTFnTnhseFBmWmJHVk1ORWREc2NxR3EwUkZUZzVrMWFEbkErTlo4ek8rQytWNWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNDcxNzUwCWZpbGU6cm9iZXJ0LWNhbmFyeS1iZGQyLmFwcC50YXIuZ3oKdjE5VVhNOGoyU3BMRVZRV1ova2FUSVVMeE9BRFRiQ1RrU1JtMVlialgwVDNycVQ1OUtFZi92Y2Fldk9jMWl2VTdaVGhpMWwvM2dEdUNlMlp1VHJZQlE9PQo="
     }
   }
 }
