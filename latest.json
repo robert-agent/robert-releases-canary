@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0-canary",
-  "notes": "Release 0.1.0-canary",
-  "pub_date": "2025-10-11T21:10:28Z",
+  "version": "0.1.1-canary",
+  "notes": "Release 0.1.1-canary",
+  "pub_date": "2025-10-14T19:09:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/robert-agent/robert-releases-canary/releases/download/0.1.0-canary/Robert_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUpVTkxBMkRvcUMyWlZFalM0dW9ST3VXM2tydnhZcGZQdU9UK2VoT0NuYlMwZjZjZFAwUmxZc2M1V1kwUnQ0VjhrYnhlSjQ2RW90SGlKWlluSGt2UFMyUGEyaU83aHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMzkxMjM3CWZpbGU6Um9iZXJ0LmFwcC50YXIuZ3oKMUtMUGMwTE01cXI3MGFZb0dOdnFGakg5NTNwVGVOQWhESVZvZ1QzS3dBeE5kMDZYZDJocitNSWpadllnaXp3ZHY1Q3ZXcGhia09SWnJ6UkxUako1QUE9PQo="
+      "url": "https://github.com/robert-agent/robert-releases-canary/releases/download/0.1.1-canary/Robert_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUpVTkxBMkRvcUFuZUY4YXBUSG5UOUdxb2hLYVBRVGdWMkUybG10N1hOcHVOQmo5K0FoUi85cWk5ZHVpNG55TFpFMWNJcDVyVWV6a2tTQ2c1cUlNRnVlVFM5NVkzb3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNDcwMjI4CWZpbGU6Um9iZXJ0LmFwcC50YXIuZ3oKSURXUjcreVovTHYxL2dFYXR3NkRxYmFHOGg1WlR2RmdLN0dZQllNc05VYmFTaFF3SmxiOElqa1dtZStXMExBclZVR2RKN0hWaE42N2x4VlNyVUROQ2c9PQo="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/robert-agent/robert-releases-canary/releases/download/0.1.0-canary/Robert_x64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUpVTkxBMkRvcUoyRjFWY0RGVkZBRU83T3h6NUMzMzdCa29IVTVzeUtpK0lkWGxlbFJlcGxwKzJDQThRTDRvdlhOUXQ4Tjl0OC9BblVGbjdpYklVQVVUV3Z6VldWcWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwMzkxMjAzCWZpbGU6Um9iZXJ0LmFwcC50YXIuZ3oKSTlyaGsyZG54bzFpRUFDZytXZGNaOStla1YxcEJDZjlYdFNxbkJodDVYOHdZTWFXbjJNWlFGVGtoWnYybVgxVFRudkJCZjJVeldrTHdZY0pkN3RKQlE9PQo="
+      "url": "https://github.com/robert-agent/robert-releases-canary/releases/download/0.1.1-canary/Robert_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUpVTkxBMkRvcUtlUnJrRUpLcWYyZGpaZEVqTjM0UDZDMWtzYmVJRjFLL2pLZXlibEsxRTNzWVZjcGVlbHRNMUNPT3FoamxvV1FZTk9uT0x5VHhQMUlrMGZ4QUpHWHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNDcwMTYxCWZpbGU6Um9iZXJ0LmFwcC50YXIuZ3oKTStUVVdhTmI1L3hBSm41QkhmVTJESStHMW93QVh1Z0NKeFFVS0k0ZzBPVHVyR3E3NTMzaWE4VUpLMzIrRXdZbEpXekgwSi8zSnJBbUdRdjB6Z0hsQVE9PQo="
     }
   }
 }
