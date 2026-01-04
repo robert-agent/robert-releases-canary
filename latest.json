@@ -1,15 +1,15 @@
 {
-  "version": "0.1.1-canary.20251021173531",
-  "notes": "Release 0.1.1-canary.20251021173531",
-  "pub_date": "2025-10-21T17:35:46Z",
+  "version": "0.1.1-canary.20260104035211",
+  "notes": "Release 0.1.1-canary.20260104035211",
+  "pub_date": "2026-01-04T03:52:18Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/robert-agent/robert-releases-canary/releases/download/0.1.1-canary.20251021173531/robert-canary-1d04_aarch64_updater.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUpVTkxBMkRvcUs1QkZPay9rVFBXSlpnU25wY0kyOVlqVUUvUTJJdlQ2MjF3VjBxb3dmSjdkYTQwUGxkeGx1M1ZzbmhPQzU1dFVFb3BNMmpSUks5SS9KNkhocEtsR3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMDY5MTg5CWZpbGU6cm9iZXJ0LWNhbmFyeS0xZDA0LmFwcC50YXIuZ3oKRFAzWFhuNDBVem1UaURNald5eEN5TnZTL0pMWUFzc2ErMktxeU1GcXZkZVpSWkVLM0V5Qks3QUlJSllhcU45Znd6TTFFZ2U1cTBYb1JQL2NzbmozQnc9PQo="
+      "url": "https://github.com/robert-agent/robert-releases-canary/releases/download/0.1.1-canary.20260104035211/robert-canary-e832_aarch64_updater.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUpVTkxBMkRvcUh2NUFxQ3YwaWxXNE14UkVPQ3ZoektzQzdlSGl5ZTVmU3hTTnpuR1Q4a2xQYS8rUmhrMnlRQ3FvdUFIYzRzaitiZi9mMlF1dXZtczlwK2VqNkNsQ0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NDk5MjgwCWZpbGU6cm9iZXJ0LWNhbmFyeS1lODMyLmFwcC50YXIuZ3oKcU9XQ0s1SkQvVVZhdTRRZzFvZlpnaloyWk52RFA4TVF2QmU1SVkvZ0hNR0IwNTVXWkg4OEtQSUNrcDBaRDZTRXdjd0I1L09XOFZiMnN2VUFqT1gyQlE9PQo="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/robert-agent/robert-releases-canary/releases/download/0.1.1-canary.20251021173531/robert-canary-1d04_x64_updater.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUpVTkxBMkRvcUEzcDlYdjFEOEIxY09LSHlPU0IyUjhrQThCYTNXT0s2NnBGZFM3cVk2Mm1seU9HZjdzOWhWWGpxYXdLR09sME14RzRIY1pua1R2N0hyVjNEcW5JY2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMDY5MTI1CWZpbGU6cm9iZXJ0LWNhbmFyeS0xZDA0LmFwcC50YXIuZ3oKMVZ1WTN0LzhWVmoyRDh4T0hSZDA3cTl2OXBVZ1pCZ3lJZm9TZnhDMmhXWnpUajJEMlVCNk9VUVB0cVVkK1JHZm5meEF0Q0NUdjVFakJkaEh2K0JGQUE9PQo="
+      "url": "https://github.com/robert-agent/robert-releases-canary/releases/download/0.1.1-canary.20260104035211/robert-canary-e832_x64_updater.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWUpVTkxBMkRvcUx1Wmx3N3QyUFUxT3ZRVjRPZGgrcDIrcXlqdmdwUW9kR1Y3T0VMeW1WU1gvV2labWgvQW93MCt5TmpnRTM0VEp1SHdqekJ1QUpoUE5EbCtNc2tSbXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NDk5MTQ2CWZpbGU6cm9iZXJ0LWNhbmFyeS1lODMyLmFwcC50YXIuZ3oKa0F0bWFXTGFWM0NnS2QxVzBzcGMwdG8yd0xCUktqSmUranJvOUkwTzJLZUdkdGIrS2tHeDU4ZUVoWU90a1FXR0Q4UjNRWFhiR2tjUnJNTDFhOVI4QWc9PQo="
     }
   }
 }
